@@ -1,11 +1,11 @@
 const images = [
-  'asset/SLIDESHOW/gambar01.JPG',
-  'asset/SLIDESHOW/gambar02.JPG',
-  'asset/SLIDESHOW/gambar03.JPG',
-  'asset/SLIDESHOW/gambar04.JPG',
-  'asset/SLIDESHOW/gambar05.JPG',
-  'asset/SLIDESHOW/gambar06.JPG',
-  'asset/SLIDESHOW/gambar07.JPG'
+  'asset/SLIDESHOW/gambar01.jpg',
+  'asset/SLIDESHOW/gambar02.jpg',
+  'asset/SLIDESHOW/gambar03.jpg',
+  'asset/SLIDESHOW/gambar04.jpg',
+  'asset/SLIDESHOW/gambar05.jpg',
+  'asset/SLIDESHOW/gambar06.jpg',
+  'asset/SLIDESHOW/gambar07.jpg'
 ];
 
 let current = 0;
